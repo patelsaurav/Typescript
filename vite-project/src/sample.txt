@@ -1,0 +1,3 @@
+tsc ./sample.ts for ts->js
+watch mpde for hot reloding
+tsc -init
